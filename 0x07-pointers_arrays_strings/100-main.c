@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -16,4 +16,3 @@ int main(void)
     printf("%s, %s\n", s0, s1);
     return (0);
 }
-
